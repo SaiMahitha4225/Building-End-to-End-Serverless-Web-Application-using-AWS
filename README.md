@@ -27,35 +27,35 @@ API Gateway: AWS API Gateway enables developers to create, publish, maintain, mo
 
 Architecture of the Services:
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/b0ff3119-54bb-4921-a0b4-7804ea618411)
-                                                            Service Architecture
+Service Architecture
 
 Project Output:
 
-                                                                  Home Page
+Home Page
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/a2dbd093-b756-4135-9a96-bb19f8b178c5)
 
-                                                                Register Page
+Register Page
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/3355d14a-1da7-4853-810c-2cf51173b0eb)
 
-                                                              Verification Page
+Verification Page
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/eecf75a8-68c2-4a69-adcf-7daed5afed8c)
 
-                                                                Sign-In Page
+Sign-In Page
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/350cce09-e0b0-4d7f-a2b2-9f20f7efdaf8)
 
-                                                                  Map Page
+Map Page
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/3acec4da-6699-42fa-93ee-948f835e7254)
 
-                                                              Pin the location
+Pin the location
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/6c997d85-a47f-4277-be0f-4bf93cfefe0d)
 
-                                                                Ride Booked
+Ride Booked
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/0693340b-9566-46f7-8be1-b60a7a0a92f5)
 
-                                                              Sign In Details
+Sign In Details
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/10199988-7b9b-4c8b-91d6-d502878df777)
 
-                                                          Ride Details in DynamoDB
+Ride Details in DynamoDB
 ![image](https://github.com/SaiMahitha4225/Building-End-to-End-Serverless-Web-Application-using-AWS/assets/106921484/36023560-2e77-44ac-9610-435a2fc04da3)
 
 Conclusion:
